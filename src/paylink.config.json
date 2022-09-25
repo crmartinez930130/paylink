@@ -19,7 +19,7 @@
     { "label": "Medium", "type": "medium", "link": "" },
     { "label": "Pinterest", "type": "pinterest", "link": "" },
     { "label": "Snapchat", "type": "snapchat", "link": "" },
-    { "label": "Telegram", "type": "telegram", "link": "@crmartinez" },
+    { "label": "Telegram", "type": "telegram", "link": "" },
     { "label": "TikTok", "type": "tiktok", "link": "" },
     { "label": "Twitch", "type": "twitch", "link": "" },
     { "label": "Vimeo", "type": "vimeo", "link": "" },
@@ -108,9 +108,15 @@
       "img": "./images/payments/xrp.svg"
     },
     {
-      "id": "card MN",
-      "label": "Card",
+      "id": "card CUP",
+      "label": "Card BPA CUP",
       "value": "9204 1299 7323 6377",
+      "img": "./images/payments/card.svg"
+    },
+    {
+      "id": "card MLC",
+      "label": "Card BPA MLC",
+      "value": "9225 1299 7165 7843",
       "img": "./images/payments/card.svg"
     }
   ]
